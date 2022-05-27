@@ -1,0 +1,18 @@
+.currency{
+    display:flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.currency-type{
+    width: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.currency__input{
+    height: 35px;
+    border-radius: 5px;
+    font-size: 17px;
+    max-width: 250px;
+}
